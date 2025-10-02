@@ -15,6 +15,6 @@ Contains weather and fire data from two Algerian regions: Bejaia and Sidi Bel-Ab
 1. Clone the repository:
 ```bash
 git clone https://github.com/MadhuriGhadge/Algerian-Forest-Fires-FWI-Prediction.git
-
+```
 ## dependencies 
 pip install numpy pandas matplotlib seaborn scikit-learn
